@@ -1,0 +1,6 @@
+[submodule "sua-primeira-api-rest-go/rest-api-go"]
+	path = sua-primeira-api-rest-go/rest-api-go
+	url = https://github.com/ellisonleao/rest-api-go
+[submodule "criando-bots-com-python/bob"]
+	path = criando-bots-com-python/bob
+	url = https://github.com/ellisonleao/bob
